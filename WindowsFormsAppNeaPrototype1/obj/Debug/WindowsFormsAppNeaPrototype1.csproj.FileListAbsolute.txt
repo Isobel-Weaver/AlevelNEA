@@ -1,0 +1,517 @@
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype1\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.csprojAssemblyReference.cache
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype1\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.Form1.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype1\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.formAddAListedItem.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype1\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormAddNewItem.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype1\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.formAddSale.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype1\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormViewItems.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype1\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.Properties.Resources.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype1\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.csproj.GenerateResource.cache
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype1\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.csproj.CoreCompileInputs.cache
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype1\WindowsFormsAppNeaPrototype1\bin\Debug\WindowsFormsAppNeaPrototype1.exe.config
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype1\WindowsFormsAppNeaPrototype1\bin\Debug\WindowsFormsAppNeaPrototype1.exe
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype1\WindowsFormsAppNeaPrototype1\bin\Debug\WindowsFormsAppNeaPrototype1.pdb
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype1\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.exe
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype1\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.pdb
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype1\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormListNext.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype1\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormViewSales.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype1\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormYearComparison.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype1\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormAnalyseSales.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype2\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.csprojAssemblyReference.cache
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype2\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.Form1.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype2\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.formAddAListedItem.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype2\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormAddNewItem.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype2\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.formAddSale.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype2\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormAnalyseSales.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype2\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormListNext.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype2\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormViewItems.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype2\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormViewSales.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype2\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormYearComparison.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype2\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.Properties.Resources.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype2\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.csproj.GenerateResource.cache
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype2\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.csproj.CoreCompileInputs.cache
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype2\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.exe
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype2\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.pdb
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype2\WindowsFormsAppNeaPrototype1\bin\Debug\WindowsFormsAppNeaPrototype1.exe.config
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype2\WindowsFormsAppNeaPrototype1\bin\Debug\WindowsFormsAppNeaPrototype1.exe
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype2\WindowsFormsAppNeaPrototype1\bin\Debug\WindowsFormsAppNeaPrototype1.pdb
+C:\Users\I.Weaver15\OneDrive - Wolverhampton Girls' High School\CS\14 NEA\WindowsFormsAppNeaPrototype2\WindowsFormsAppNeaPrototype1\bin\Debug\WindowsFormsAppNeaPrototype1.exe.config
+C:\Users\I.Weaver15\OneDrive - Wolverhampton Girls' High School\CS\14 NEA\WindowsFormsAppNeaPrototype2\WindowsFormsAppNeaPrototype1\bin\Debug\WindowsFormsAppNeaPrototype1.exe
+C:\Users\I.Weaver15\OneDrive - Wolverhampton Girls' High School\CS\14 NEA\WindowsFormsAppNeaPrototype2\WindowsFormsAppNeaPrototype1\bin\Debug\WindowsFormsAppNeaPrototype1.pdb
+C:\Users\I.Weaver15\OneDrive - Wolverhampton Girls' High School\CS\14 NEA\WindowsFormsAppNeaPrototype2\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.csprojAssemblyReference.cache
+C:\Users\I.Weaver15\OneDrive - Wolverhampton Girls' High School\CS\14 NEA\WindowsFormsAppNeaPrototype2\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.Form1.resources
+C:\Users\I.Weaver15\OneDrive - Wolverhampton Girls' High School\CS\14 NEA\WindowsFormsAppNeaPrototype2\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.formAddAListedItem.resources
+C:\Users\I.Weaver15\OneDrive - Wolverhampton Girls' High School\CS\14 NEA\WindowsFormsAppNeaPrototype2\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormAddNewItem.resources
+C:\Users\I.Weaver15\OneDrive - Wolverhampton Girls' High School\CS\14 NEA\WindowsFormsAppNeaPrototype2\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.formAddSale.resources
+C:\Users\I.Weaver15\OneDrive - Wolverhampton Girls' High School\CS\14 NEA\WindowsFormsAppNeaPrototype2\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormAnalyseSales.resources
+C:\Users\I.Weaver15\OneDrive - Wolverhampton Girls' High School\CS\14 NEA\WindowsFormsAppNeaPrototype2\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormListNext.resources
+C:\Users\I.Weaver15\OneDrive - Wolverhampton Girls' High School\CS\14 NEA\WindowsFormsAppNeaPrototype2\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormViewItems.resources
+C:\Users\I.Weaver15\OneDrive - Wolverhampton Girls' High School\CS\14 NEA\WindowsFormsAppNeaPrototype2\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormViewSales.resources
+C:\Users\I.Weaver15\OneDrive - Wolverhampton Girls' High School\CS\14 NEA\WindowsFormsAppNeaPrototype2\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormYearComparison.resources
+C:\Users\I.Weaver15\OneDrive - Wolverhampton Girls' High School\CS\14 NEA\WindowsFormsAppNeaPrototype2\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.Properties.Resources.resources
+C:\Users\I.Weaver15\OneDrive - Wolverhampton Girls' High School\CS\14 NEA\WindowsFormsAppNeaPrototype2\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.csproj.GenerateResource.cache
+C:\Users\I.Weaver15\OneDrive - Wolverhampton Girls' High School\CS\14 NEA\WindowsFormsAppNeaPrototype2\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.csproj.CoreCompileInputs.cache
+C:\Users\I.Weaver15\OneDrive - Wolverhampton Girls' High School\CS\14 NEA\WindowsFormsAppNeaPrototype2\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.exe
+C:\Users\I.Weaver15\OneDrive - Wolverhampton Girls' High School\CS\14 NEA\WindowsFormsAppNeaPrototype2\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.pdb
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype2\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormViewSalesTDLY.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype2\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormEditItems.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype2\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormAddPaidPosted.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype2\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormAddCustomer.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype2\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormNewCustomer.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype3\WindowsFormsAppNeaPrototype1\bin\Debug\WindowsFormsAppNeaPrototype1.exe.config
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype3\WindowsFormsAppNeaPrototype1\bin\Debug\WindowsFormsAppNeaPrototype1.exe
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype3\WindowsFormsAppNeaPrototype1\bin\Debug\WindowsFormsAppNeaPrototype1.pdb
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype3\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.csprojAssemblyReference.cache
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype3\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.Form1.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype3\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormAddCustomer.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype3\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.formAddAListedItem.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype3\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormAddNewItem.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype3\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormAddPaidPosted.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype3\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.formAddSale.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype3\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormAnalyseSales.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype3\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormEditItems.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype3\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormListNext.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype3\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormNewCustomer.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype3\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormViewItems.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype3\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormViewSales.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype3\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormViewSalesTDLY.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype3\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormYearComparison.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype3\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.Properties.Resources.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype3\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.csproj.GenerateResource.cache
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype3\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.csproj.CoreCompileInputs.cache
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype3\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.exe
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype3\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.pdb
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype3\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormDelete.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype1\bin\Debug\WindowsFormsAppNeaPrototype1.exe.config
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype1\bin\Debug\WindowsFormsAppNeaPrototype1.exe
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype1\bin\Debug\WindowsFormsAppNeaPrototype1.pdb
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.csprojAssemblyReference.cache
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.Form1.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormAddCustomer.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.formAddAListedItem.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormAddNewItem.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormAddPaidPosted.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.formAddSale.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormAnalyseSales.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormDelete.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormEditItems.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormListNext.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormNewCustomer.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormViewItems.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormViewSales.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormViewSalesTDLY.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormYearComparison.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.Properties.Resources.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.csproj.GenerateResource.cache
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.csproj.CoreCompileInputs.cache
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.exe
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.pdb
+C:\Users\I.Weaver15\OneDrive - Wolverhampton Girls' High School\CS\14 NEA\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.csprojAssemblyReference.cache
+C:\Users\I.Weaver15\OneDrive - Wolverhampton Girls' High School\CS\14 NEA\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.Form1.resources
+C:\Users\I.Weaver15\OneDrive - Wolverhampton Girls' High School\CS\14 NEA\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormAddCustomer.resources
+C:\Users\I.Weaver15\OneDrive - Wolverhampton Girls' High School\CS\14 NEA\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.formAddAListedItem.resources
+C:\Users\I.Weaver15\OneDrive - Wolverhampton Girls' High School\CS\14 NEA\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormAddNewItem.resources
+C:\Users\I.Weaver15\OneDrive - Wolverhampton Girls' High School\CS\14 NEA\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormAddPaidPosted.resources
+C:\Users\I.Weaver15\OneDrive - Wolverhampton Girls' High School\CS\14 NEA\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.formAddSale.resources
+C:\Users\I.Weaver15\OneDrive - Wolverhampton Girls' High School\CS\14 NEA\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormAnalyseSales.resources
+C:\Users\I.Weaver15\OneDrive - Wolverhampton Girls' High School\CS\14 NEA\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormDelete.resources
+C:\Users\I.Weaver15\OneDrive - Wolverhampton Girls' High School\CS\14 NEA\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormEditItems.resources
+C:\Users\I.Weaver15\OneDrive - Wolverhampton Girls' High School\CS\14 NEA\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormListNext.resources
+C:\Users\I.Weaver15\OneDrive - Wolverhampton Girls' High School\CS\14 NEA\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormNewCustomer.resources
+C:\Users\I.Weaver15\OneDrive - Wolverhampton Girls' High School\CS\14 NEA\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormViewItems.resources
+C:\Users\I.Weaver15\OneDrive - Wolverhampton Girls' High School\CS\14 NEA\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormViewSales.resources
+C:\Users\I.Weaver15\OneDrive - Wolverhampton Girls' High School\CS\14 NEA\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormViewSalesTDLY.resources
+C:\Users\I.Weaver15\OneDrive - Wolverhampton Girls' High School\CS\14 NEA\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormYearComparison.resources
+C:\Users\I.Weaver15\OneDrive - Wolverhampton Girls' High School\CS\14 NEA\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.Properties.Resources.resources
+C:\Users\I.Weaver15\OneDrive - Wolverhampton Girls' High School\CS\14 NEA\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.csproj.GenerateResource.cache
+C:\Users\I.Weaver15\OneDrive - Wolverhampton Girls' High School\CS\14 NEA\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.csproj.CoreCompileInputs.cache
+C:\Users\I.Weaver15\OneDrive - Wolverhampton Girls' High School\CS\14 NEA\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.exe
+C:\Users\I.Weaver15\OneDrive - Wolverhampton Girls' High School\CS\14 NEA\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.pdb
+C:\Users\Weaver Family\OneDrive - Wolverhampton Girls' High School\CS\14 NEA\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype1\bin\Debug\WindowsFormsAppNeaPrototype1.exe.config
+C:\Users\Weaver Family\OneDrive - Wolverhampton Girls' High School\CS\14 NEA\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype1\bin\Debug\WindowsFormsAppNeaPrototype1.exe
+C:\Users\Weaver Family\OneDrive - Wolverhampton Girls' High School\CS\14 NEA\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype1\bin\Debug\WindowsFormsAppNeaPrototype1.pdb
+C:\Users\Weaver Family\OneDrive - Wolverhampton Girls' High School\CS\14 NEA\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.csprojAssemblyReference.cache
+C:\Users\Weaver Family\OneDrive - Wolverhampton Girls' High School\CS\14 NEA\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.Form1.resources
+C:\Users\Weaver Family\OneDrive - Wolverhampton Girls' High School\CS\14 NEA\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormAddCustomer.resources
+C:\Users\Weaver Family\OneDrive - Wolverhampton Girls' High School\CS\14 NEA\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.formAddAListedItem.resources
+C:\Users\Weaver Family\OneDrive - Wolverhampton Girls' High School\CS\14 NEA\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormAddNewItem.resources
+C:\Users\Weaver Family\OneDrive - Wolverhampton Girls' High School\CS\14 NEA\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormAddPaidPosted.resources
+C:\Users\Weaver Family\OneDrive - Wolverhampton Girls' High School\CS\14 NEA\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.formAddSale.resources
+C:\Users\Weaver Family\OneDrive - Wolverhampton Girls' High School\CS\14 NEA\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormAnalyseSales.resources
+C:\Users\Weaver Family\OneDrive - Wolverhampton Girls' High School\CS\14 NEA\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormDelete.resources
+C:\Users\Weaver Family\OneDrive - Wolverhampton Girls' High School\CS\14 NEA\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormEditItems.resources
+C:\Users\Weaver Family\OneDrive - Wolverhampton Girls' High School\CS\14 NEA\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormListNext.resources
+C:\Users\Weaver Family\OneDrive - Wolverhampton Girls' High School\CS\14 NEA\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormNewCustomer.resources
+C:\Users\Weaver Family\OneDrive - Wolverhampton Girls' High School\CS\14 NEA\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormViewItems.resources
+C:\Users\Weaver Family\OneDrive - Wolverhampton Girls' High School\CS\14 NEA\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormViewSales.resources
+C:\Users\Weaver Family\OneDrive - Wolverhampton Girls' High School\CS\14 NEA\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormViewSalesTDLY.resources
+C:\Users\Weaver Family\OneDrive - Wolverhampton Girls' High School\CS\14 NEA\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormYearComparison.resources
+C:\Users\Weaver Family\OneDrive - Wolverhampton Girls' High School\CS\14 NEA\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.Properties.Resources.resources
+C:\Users\Weaver Family\OneDrive - Wolverhampton Girls' High School\CS\14 NEA\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.csproj.GenerateResource.cache
+C:\Users\Weaver Family\OneDrive - Wolverhampton Girls' High School\CS\14 NEA\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.csproj.CoreCompileInputs.cache
+C:\Users\Weaver Family\OneDrive - Wolverhampton Girls' High School\CS\14 NEA\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.exe
+C:\Users\Weaver Family\OneDrive - Wolverhampton Girls' High School\CS\14 NEA\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.pdb
+C:\Users\Weaver Family\OneDrive - Wolverhampton Girls' High School\CS\14 NEA\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype1\bin\Debug\WindowsFormsAppNeaPrototype1.exe.config
+C:\Users\Weaver Family\OneDrive - Wolverhampton Girls' High School\CS\14 NEA\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype1\bin\Debug\WindowsFormsAppNeaPrototype1.exe
+C:\Users\Weaver Family\OneDrive - Wolverhampton Girls' High School\CS\14 NEA\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype1\bin\Debug\WindowsFormsAppNeaPrototype1.pdb
+C:\Users\Weaver Family\OneDrive - Wolverhampton Girls' High School\CS\14 NEA\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.csprojAssemblyReference.cache
+C:\Users\Weaver Family\OneDrive - Wolverhampton Girls' High School\CS\14 NEA\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.Form1.resources
+C:\Users\Weaver Family\OneDrive - Wolverhampton Girls' High School\CS\14 NEA\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormAddCustomer.resources
+C:\Users\Weaver Family\OneDrive - Wolverhampton Girls' High School\CS\14 NEA\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.formAddAListedItem.resources
+C:\Users\Weaver Family\OneDrive - Wolverhampton Girls' High School\CS\14 NEA\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormAddNewItem.resources
+C:\Users\Weaver Family\OneDrive - Wolverhampton Girls' High School\CS\14 NEA\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormAddPaidPosted.resources
+C:\Users\Weaver Family\OneDrive - Wolverhampton Girls' High School\CS\14 NEA\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.formAddSale.resources
+C:\Users\Weaver Family\OneDrive - Wolverhampton Girls' High School\CS\14 NEA\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormAnalyseSales.resources
+C:\Users\Weaver Family\OneDrive - Wolverhampton Girls' High School\CS\14 NEA\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormDelete.resources
+C:\Users\Weaver Family\OneDrive - Wolverhampton Girls' High School\CS\14 NEA\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormEditItems.resources
+C:\Users\Weaver Family\OneDrive - Wolverhampton Girls' High School\CS\14 NEA\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormListNext.resources
+C:\Users\Weaver Family\OneDrive - Wolverhampton Girls' High School\CS\14 NEA\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormNewCustomer.resources
+C:\Users\Weaver Family\OneDrive - Wolverhampton Girls' High School\CS\14 NEA\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormViewItems.resources
+C:\Users\Weaver Family\OneDrive - Wolverhampton Girls' High School\CS\14 NEA\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormViewSales.resources
+C:\Users\Weaver Family\OneDrive - Wolverhampton Girls' High School\CS\14 NEA\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormViewSalesTDLY.resources
+C:\Users\Weaver Family\OneDrive - Wolverhampton Girls' High School\CS\14 NEA\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormYearComparison.resources
+C:\Users\Weaver Family\OneDrive - Wolverhampton Girls' High School\CS\14 NEA\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.Properties.Resources.resources
+C:\Users\Weaver Family\OneDrive - Wolverhampton Girls' High School\CS\14 NEA\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.csproj.GenerateResource.cache
+C:\Users\Weaver Family\OneDrive - Wolverhampton Girls' High School\CS\14 NEA\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.csproj.CoreCompileInputs.cache
+C:\Users\Weaver Family\OneDrive - Wolverhampton Girls' High School\CS\14 NEA\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.exe
+C:\Users\Weaver Family\OneDrive - Wolverhampton Girls' High School\CS\14 NEA\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.pdb
+C:\Users\I.Weaver15\OneDrive - Wolverhampton Girls' High School\CS\14 NEA\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype1\bin\Debug\WindowsFormsAppNeaPrototype1.exe.config
+C:\Users\I.Weaver15\OneDrive - Wolverhampton Girls' High School\CS\14 NEA\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype1\bin\Debug\WindowsFormsAppNeaPrototype1.exe
+C:\Users\I.Weaver15\OneDrive - Wolverhampton Girls' High School\CS\14 NEA\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype1\bin\Debug\WindowsFormsAppNeaPrototype1.pdb
+C:\Users\I.Weaver15\OneDrive - Wolverhampton Girls' High School\CS\14 NEA\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.csproj.AssemblyReference.cache
+C:\Users\I.Weaver15\OneDrive - Wolverhampton Girls' High School\CS\14 NEA\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.Form1.resources
+C:\Users\I.Weaver15\OneDrive - Wolverhampton Girls' High School\CS\14 NEA\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormAddCustomer.resources
+C:\Users\I.Weaver15\OneDrive - Wolverhampton Girls' High School\CS\14 NEA\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.formAddAListedItem.resources
+C:\Users\I.Weaver15\OneDrive - Wolverhampton Girls' High School\CS\14 NEA\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormAddNewItem.resources
+C:\Users\I.Weaver15\OneDrive - Wolverhampton Girls' High School\CS\14 NEA\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormAddPaidPosted.resources
+C:\Users\I.Weaver15\OneDrive - Wolverhampton Girls' High School\CS\14 NEA\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.formAddSale.resources
+C:\Users\I.Weaver15\OneDrive - Wolverhampton Girls' High School\CS\14 NEA\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormAnalyseSales.resources
+C:\Users\I.Weaver15\OneDrive - Wolverhampton Girls' High School\CS\14 NEA\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormDelete.resources
+C:\Users\I.Weaver15\OneDrive - Wolverhampton Girls' High School\CS\14 NEA\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormEditItems.resources
+C:\Users\I.Weaver15\OneDrive - Wolverhampton Girls' High School\CS\14 NEA\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormListNext.resources
+C:\Users\I.Weaver15\OneDrive - Wolverhampton Girls' High School\CS\14 NEA\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormNewCustomer.resources
+C:\Users\I.Weaver15\OneDrive - Wolverhampton Girls' High School\CS\14 NEA\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormViewItems.resources
+C:\Users\I.Weaver15\OneDrive - Wolverhampton Girls' High School\CS\14 NEA\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormViewSales.resources
+C:\Users\I.Weaver15\OneDrive - Wolverhampton Girls' High School\CS\14 NEA\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormViewSalesTDLY.resources
+C:\Users\I.Weaver15\OneDrive - Wolverhampton Girls' High School\CS\14 NEA\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormYearComparison.resources
+C:\Users\I.Weaver15\OneDrive - Wolverhampton Girls' High School\CS\14 NEA\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.Properties.Resources.resources
+C:\Users\I.Weaver15\OneDrive - Wolverhampton Girls' High School\CS\14 NEA\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.csproj.GenerateResource.cache
+C:\Users\I.Weaver15\OneDrive - Wolverhampton Girls' High School\CS\14 NEA\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.csproj.CoreCompileInputs.cache
+C:\Users\I.Weaver15\OneDrive - Wolverhampton Girls' High School\CS\14 NEA\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.exe
+C:\Users\I.Weaver15\OneDrive - Wolverhampton Girls' High School\CS\14 NEA\WindowsFormsAppNeaPrototype4\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.pdb
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype5\WindowsFormsAppNeaPrototype1\bin\Debug\WindowsFormsAppNeaPrototype1.exe.config
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype5\WindowsFormsAppNeaPrototype1\bin\Debug\WindowsFormsAppNeaPrototype1.exe
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype5\WindowsFormsAppNeaPrototype1\bin\Debug\WindowsFormsAppNeaPrototype1.pdb
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype5\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.csprojAssemblyReference.cache
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype5\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.Form1.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype5\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormAddCustomer.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype5\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.formAddAListedItem.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype5\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormAddNewItem.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype5\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormAddPaidPosted.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype5\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.formAddSale.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype5\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormAnalyseSales.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype5\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormDelete.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype5\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormEditItems.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype5\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormListNext.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype5\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormNewCustomer.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype5\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormViewItems.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype5\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormViewSales.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype5\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormViewSalesTDLY.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype5\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormYearComparison.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype5\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.Properties.Resources.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype5\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.csproj.GenerateResource.cache
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype5\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.csproj.CoreCompileInputs.cache
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype5\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.exe
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype5\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.pdb
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype5\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormViewListed.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype6\WindowsFormsAppNeaPrototype1\bin\Debug\WindowsFormsAppNeaPrototype1.exe.config
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype6\WindowsFormsAppNeaPrototype1\bin\Debug\WindowsFormsAppNeaPrototype1.exe
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype6\WindowsFormsAppNeaPrototype1\bin\Debug\WindowsFormsAppNeaPrototype1.pdb
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype6\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.csprojAssemblyReference.cache
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype6\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.Form1.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype6\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormAddCustomer.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype6\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.formAddAListedItem.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype6\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormAddNewItem.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype6\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormAddPaidPosted.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype6\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.formAddSale.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype6\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormAnalyseSales.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype6\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormDelete.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype6\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormEditItems.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype6\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormListNext.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype6\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormNewCustomer.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype6\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormViewItems.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype6\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormViewListed.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype6\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormViewSales.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype6\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormViewSalesTDLY.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype6\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormYearComparison.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype6\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.Properties.Resources.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype6\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.csproj.GenerateResource.cache
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype6\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.csproj.CoreCompileInputs.cache
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype6\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.exe
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype6\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.pdb
+C:\Users\I.Weaver15\OneDrive - Wolverhampton Girls' High School\CS\14 NEA\WindowsFormsAppNeaPrototype6\WindowsFormsAppNeaPrototype1\bin\Debug\WindowsFormsAppNeaPrototype1.exe.config
+C:\Users\I.Weaver15\OneDrive - Wolverhampton Girls' High School\CS\14 NEA\WindowsFormsAppNeaPrototype6\WindowsFormsAppNeaPrototype1\bin\Debug\WindowsFormsAppNeaPrototype1.exe
+C:\Users\I.Weaver15\OneDrive - Wolverhampton Girls' High School\CS\14 NEA\WindowsFormsAppNeaPrototype6\WindowsFormsAppNeaPrototype1\bin\Debug\WindowsFormsAppNeaPrototype1.pdb
+C:\Users\I.Weaver15\OneDrive - Wolverhampton Girls' High School\CS\14 NEA\WindowsFormsAppNeaPrototype6\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.csproj.AssemblyReference.cache
+C:\Users\I.Weaver15\OneDrive - Wolverhampton Girls' High School\CS\14 NEA\WindowsFormsAppNeaPrototype6\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.Form1.resources
+C:\Users\I.Weaver15\OneDrive - Wolverhampton Girls' High School\CS\14 NEA\WindowsFormsAppNeaPrototype6\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormAddCustomer.resources
+C:\Users\I.Weaver15\OneDrive - Wolverhampton Girls' High School\CS\14 NEA\WindowsFormsAppNeaPrototype6\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.formAddAListedItem.resources
+C:\Users\I.Weaver15\OneDrive - Wolverhampton Girls' High School\CS\14 NEA\WindowsFormsAppNeaPrototype6\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormAddNewItem.resources
+C:\Users\I.Weaver15\OneDrive - Wolverhampton Girls' High School\CS\14 NEA\WindowsFormsAppNeaPrototype6\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormAddPaidPosted.resources
+C:\Users\I.Weaver15\OneDrive - Wolverhampton Girls' High School\CS\14 NEA\WindowsFormsAppNeaPrototype6\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.formAddSale.resources
+C:\Users\I.Weaver15\OneDrive - Wolverhampton Girls' High School\CS\14 NEA\WindowsFormsAppNeaPrototype6\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormAnalyseSales.resources
+C:\Users\I.Weaver15\OneDrive - Wolverhampton Girls' High School\CS\14 NEA\WindowsFormsAppNeaPrototype6\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormDelete.resources
+C:\Users\I.Weaver15\OneDrive - Wolverhampton Girls' High School\CS\14 NEA\WindowsFormsAppNeaPrototype6\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormEditItems.resources
+C:\Users\I.Weaver15\OneDrive - Wolverhampton Girls' High School\CS\14 NEA\WindowsFormsAppNeaPrototype6\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormListNext.resources
+C:\Users\I.Weaver15\OneDrive - Wolverhampton Girls' High School\CS\14 NEA\WindowsFormsAppNeaPrototype6\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormNewCustomer.resources
+C:\Users\I.Weaver15\OneDrive - Wolverhampton Girls' High School\CS\14 NEA\WindowsFormsAppNeaPrototype6\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormViewItems.resources
+C:\Users\I.Weaver15\OneDrive - Wolverhampton Girls' High School\CS\14 NEA\WindowsFormsAppNeaPrototype6\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormViewListed.resources
+C:\Users\I.Weaver15\OneDrive - Wolverhampton Girls' High School\CS\14 NEA\WindowsFormsAppNeaPrototype6\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormViewSales.resources
+C:\Users\I.Weaver15\OneDrive - Wolverhampton Girls' High School\CS\14 NEA\WindowsFormsAppNeaPrototype6\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormViewSalesTDLY.resources
+C:\Users\I.Weaver15\OneDrive - Wolverhampton Girls' High School\CS\14 NEA\WindowsFormsAppNeaPrototype6\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormYearComparison.resources
+C:\Users\I.Weaver15\OneDrive - Wolverhampton Girls' High School\CS\14 NEA\WindowsFormsAppNeaPrototype6\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.Properties.Resources.resources
+C:\Users\I.Weaver15\OneDrive - Wolverhampton Girls' High School\CS\14 NEA\WindowsFormsAppNeaPrototype6\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.csproj.GenerateResource.cache
+C:\Users\I.Weaver15\OneDrive - Wolverhampton Girls' High School\CS\14 NEA\WindowsFormsAppNeaPrototype6\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.csproj.CoreCompileInputs.cache
+C:\Users\I.Weaver15\OneDrive - Wolverhampton Girls' High School\CS\14 NEA\WindowsFormsAppNeaPrototype6\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.exe
+C:\Users\I.Weaver15\OneDrive - Wolverhampton Girls' High School\CS\14 NEA\WindowsFormsAppNeaPrototype6\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.pdb
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype7\WindowsFormsAppNeaPrototype1\bin\Debug\WindowsFormsAppNeaPrototype1.exe.config
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype7\WindowsFormsAppNeaPrototype1\bin\Debug\WindowsFormsAppNeaPrototype1.exe
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype7\WindowsFormsAppNeaPrototype1\bin\Debug\WindowsFormsAppNeaPrototype1.pdb
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype7\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.csprojAssemblyReference.cache
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype7\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.Form1.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype7\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormAddCustomer.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype7\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.formAddAListedItem.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype7\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormAddNewItem.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype7\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormAddPaidPosted.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype7\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.formAddSale.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype7\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormAnalyseSales.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype7\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormDelete.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype7\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormEditItems.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype7\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormListNext.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype7\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormNewCustomer.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype7\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormViewItems.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype7\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormViewListed.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype7\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormViewSales.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype7\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormViewSalesTDLY.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype7\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormYearComparison.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype7\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.Properties.Resources.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype7\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.csproj.GenerateResource.cache
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype7\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.csproj.CoreCompileInputs.cache
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype7\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.exe
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype7\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.pdb
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype8\WindowsFormsAppNeaPrototype1\bin\Debug\WindowsFormsAppNeaPrototype1.exe.config
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype8\WindowsFormsAppNeaPrototype1\bin\Debug\WindowsFormsAppNeaPrototype1.exe
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype8\WindowsFormsAppNeaPrototype1\bin\Debug\WindowsFormsAppNeaPrototype1.pdb
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype8\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.csprojAssemblyReference.cache
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype8\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.Form1.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype8\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormAddCustomer.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype8\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.formAddAListedItem.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype8\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormAddNewItem.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype8\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormAddPaidPosted.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype8\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.formAddSale.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype8\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormAnalyseSales.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype8\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormDelete.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype8\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormEditItems.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype8\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormListNext.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype8\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormNewCustomer.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype8\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormViewItems.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype8\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormViewListed.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype8\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormViewSales.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype8\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormViewSalesTDLY.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype8\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormYearComparison.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype8\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.Properties.Resources.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype8\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.csproj.GenerateResource.cache
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype8\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.csproj.CoreCompileInputs.cache
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype8\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.exe
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype8\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.pdb
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype9\WindowsFormsAppNeaPrototype1\bin\Debug\WindowsFormsAppNeaPrototype1.exe.config
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype9\WindowsFormsAppNeaPrototype1\bin\Debug\WindowsFormsAppNeaPrototype1.exe
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype9\WindowsFormsAppNeaPrototype1\bin\Debug\WindowsFormsAppNeaPrototype1.pdb
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype9\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.csprojAssemblyReference.cache
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype9\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.Form1.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype9\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormAddCustomer.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype9\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.formAddAListedItem.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype9\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormAddNewItem.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype9\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormAddPaidPosted.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype9\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.formAddSale.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype9\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormAnalyseSales.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype9\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormDelete.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype9\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormEditItems.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype9\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormListNext.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype9\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormNewCustomer.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype9\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormViewItems.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype9\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormViewListed.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype9\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormViewSales.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype9\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormViewSalesTDLY.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype9\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormYearComparison.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype9\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.Properties.Resources.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype9\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.csproj.GenerateResource.cache
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype9\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.csproj.CoreCompileInputs.cache
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype9\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.exe
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype9\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.pdb
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype10\WindowsFormsAppNeaPrototype1\bin\Debug\WindowsFormsAppNeaPrototype1.exe.config
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype10\WindowsFormsAppNeaPrototype1\bin\Debug\WindowsFormsAppNeaPrototype1.exe
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype10\WindowsFormsAppNeaPrototype1\bin\Debug\WindowsFormsAppNeaPrototype1.pdb
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype10\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.csprojAssemblyReference.cache
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype10\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.Form1.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype10\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormAddCustomer.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype10\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.formAddAListedItem.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype10\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormAddNewItem.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype10\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormAddPaidPosted.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype10\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.formAddSale.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype10\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormAnalyseSales.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype10\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormDelete.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype10\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormEditItems.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype10\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormListNext.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype10\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormNewCustomer.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype10\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormViewItems.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype10\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormViewListed.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype10\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormViewSales.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype10\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormViewSalesTDLY.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype10\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormYearComparison.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype10\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.Properties.Resources.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype10\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.csproj.GenerateResource.cache
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype10\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.csproj.CoreCompileInputs.cache
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype10\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.exe
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype10\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.pdb
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype11\WindowsFormsAppNeaPrototype1\bin\Debug\WindowsFormsAppNeaPrototype1.exe.config
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype11\WindowsFormsAppNeaPrototype1\bin\Debug\WindowsFormsAppNeaPrototype1.exe
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype11\WindowsFormsAppNeaPrototype1\bin\Debug\WindowsFormsAppNeaPrototype1.pdb
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype11\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.csprojAssemblyReference.cache
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype11\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.Form1.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype11\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormAddCustomer.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype11\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.formAddAListedItem.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype11\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormAddNewItem.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype11\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormAddPaidPosted.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype11\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.formAddSale.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype11\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormAnalyseSales.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype11\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormDelete.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype11\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormEditItems.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype11\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormListNext.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype11\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormNewCustomer.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype11\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormViewItems.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype11\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormViewListed.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype11\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormViewSales.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype11\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormViewSalesTDLY.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype11\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormYearComparison.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype11\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.Properties.Resources.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype11\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.csproj.GenerateResource.cache
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype11\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.csproj.CoreCompileInputs.cache
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype11\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.exe
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype11\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.pdb
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype12\WindowsFormsAppNeaPrototype1\bin\Debug\WindowsFormsAppNeaPrototype1.exe.config
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype12\WindowsFormsAppNeaPrototype1\bin\Debug\WindowsFormsAppNeaPrototype1.exe
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype12\WindowsFormsAppNeaPrototype1\bin\Debug\WindowsFormsAppNeaPrototype1.pdb
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype12\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.csprojAssemblyReference.cache
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype12\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.Form1.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype12\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormAddCustomer.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype12\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.formAddAListedItem.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype12\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormAddNewItem.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype12\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormAddPaidPosted.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype12\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.formAddSale.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype12\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormAnalyseSales.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype12\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormDelete.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype12\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormEditItems.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype12\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormListNext.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype12\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormNewCustomer.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype12\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormViewItems.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype12\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormViewListed.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype12\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormViewSales.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype12\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormViewSalesTDLY.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype12\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormYearComparison.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype12\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.Properties.Resources.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype12\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.csproj.GenerateResource.cache
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype12\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.csproj.CoreCompileInputs.cache
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype12\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.exe
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype12\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.pdb
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype13\WindowsFormsAppNeaPrototype1\bin\Debug\WindowsFormsAppNeaPrototype1.exe.config
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype13\WindowsFormsAppNeaPrototype1\bin\Debug\WindowsFormsAppNeaPrototype1.exe
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype13\WindowsFormsAppNeaPrototype1\bin\Debug\WindowsFormsAppNeaPrototype1.pdb
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype13\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.csprojAssemblyReference.cache
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype13\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.Form1.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype13\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.formAddAListedItem.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype13\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormAddNewItem.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype13\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.formAddSale.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype13\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormAnalyseSales.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype13\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormDelete.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype13\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormEditItems.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype13\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormListNext.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype13\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormNewCustomer.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype13\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormViewItems.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype13\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormViewSales.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype13\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormViewSalesTDLY.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype13\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormYearComparison.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype13\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.Properties.Resources.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype13\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.csproj.GenerateResource.cache
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype13\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.csproj.CoreCompileInputs.cache
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype13\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.exe
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype13\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.pdb
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype13\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormViewToList.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype14\WindowsFormsAppNeaPrototype1\bin\Debug\WindowsFormsAppNeaPrototype1.exe.config
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype14\WindowsFormsAppNeaPrototype1\bin\Debug\WindowsFormsAppNeaPrototype1.exe
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype14\WindowsFormsAppNeaPrototype1\bin\Debug\WindowsFormsAppNeaPrototype1.pdb
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype14\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.csprojAssemblyReference.cache
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype14\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormStart.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype14\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormAddAListedItem.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype14\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormAddNewItem.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype14\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormAddSale.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype14\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormAnalyseSales.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype14\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormDelete.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype14\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormEditItems.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype14\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormListNext.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype14\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormNewCustomer.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype14\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormViewItems.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype14\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormViewSales.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype14\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormViewSalesTDLY.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype14\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormViewToList.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype14\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormYearComparison.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype14\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.Properties.Resources.resources
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype14\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.csproj.GenerateResource.cache
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype14\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.csproj.CoreCompileInputs.cache
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype14\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.exe
+C:\Users\Weaver Family\Documents\IKW\A-Levels\CS\14 NEA\WindowsFormsAppNeaPrototype14\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.pdb
+C:\Users\Weaver Family\OneDrive - Wolverhampton Girls' High School\CS\NEA\WindowsFormsAppNeaFinal2\WindowsFormsAppNeaPrototype1\bin\Debug\WindowsFormsAppNeaPrototype1.exe.config
+C:\Users\Weaver Family\OneDrive - Wolverhampton Girls' High School\CS\NEA\WindowsFormsAppNeaFinal2\WindowsFormsAppNeaPrototype1\bin\Debug\WindowsFormsAppNeaPrototype1.exe
+C:\Users\Weaver Family\OneDrive - Wolverhampton Girls' High School\CS\NEA\WindowsFormsAppNeaFinal2\WindowsFormsAppNeaPrototype1\bin\Debug\WindowsFormsAppNeaPrototype1.pdb
+C:\Users\Weaver Family\OneDrive - Wolverhampton Girls' High School\CS\NEA\WindowsFormsAppNeaFinal2\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.csprojAssemblyReference.cache
+C:\Users\Weaver Family\OneDrive - Wolverhampton Girls' High School\CS\NEA\WindowsFormsAppNeaFinal2\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormStart.resources
+C:\Users\Weaver Family\OneDrive - Wolverhampton Girls' High School\CS\NEA\WindowsFormsAppNeaFinal2\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormAddAListedItem.resources
+C:\Users\Weaver Family\OneDrive - Wolverhampton Girls' High School\CS\NEA\WindowsFormsAppNeaFinal2\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormAddNewItem.resources
+C:\Users\Weaver Family\OneDrive - Wolverhampton Girls' High School\CS\NEA\WindowsFormsAppNeaFinal2\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormAddSale.resources
+C:\Users\Weaver Family\OneDrive - Wolverhampton Girls' High School\CS\NEA\WindowsFormsAppNeaFinal2\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormAnalyseSales.resources
+C:\Users\Weaver Family\OneDrive - Wolverhampton Girls' High School\CS\NEA\WindowsFormsAppNeaFinal2\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormDelete.resources
+C:\Users\Weaver Family\OneDrive - Wolverhampton Girls' High School\CS\NEA\WindowsFormsAppNeaFinal2\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormEditItems.resources
+C:\Users\Weaver Family\OneDrive - Wolverhampton Girls' High School\CS\NEA\WindowsFormsAppNeaFinal2\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormListNext.resources
+C:\Users\Weaver Family\OneDrive - Wolverhampton Girls' High School\CS\NEA\WindowsFormsAppNeaFinal2\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormNewCustomer.resources
+C:\Users\Weaver Family\OneDrive - Wolverhampton Girls' High School\CS\NEA\WindowsFormsAppNeaFinal2\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormViewItems.resources
+C:\Users\Weaver Family\OneDrive - Wolverhampton Girls' High School\CS\NEA\WindowsFormsAppNeaFinal2\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormViewSales.resources
+C:\Users\Weaver Family\OneDrive - Wolverhampton Girls' High School\CS\NEA\WindowsFormsAppNeaFinal2\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormViewSalesTDLY.resources
+C:\Users\Weaver Family\OneDrive - Wolverhampton Girls' High School\CS\NEA\WindowsFormsAppNeaFinal2\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormViewToList.resources
+C:\Users\Weaver Family\OneDrive - Wolverhampton Girls' High School\CS\NEA\WindowsFormsAppNeaFinal2\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormYearComparison.resources
+C:\Users\Weaver Family\OneDrive - Wolverhampton Girls' High School\CS\NEA\WindowsFormsAppNeaFinal2\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.Properties.Resources.resources
+C:\Users\Weaver Family\OneDrive - Wolverhampton Girls' High School\CS\NEA\WindowsFormsAppNeaFinal2\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.csproj.GenerateResource.cache
+C:\Users\Weaver Family\OneDrive - Wolverhampton Girls' High School\CS\NEA\WindowsFormsAppNeaFinal2\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.csproj.CoreCompileInputs.cache
+C:\Users\Weaver Family\OneDrive - Wolverhampton Girls' High School\CS\NEA\WindowsFormsAppNeaFinal2\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.exe
+C:\Users\Weaver Family\OneDrive - Wolverhampton Girls' High School\CS\NEA\WindowsFormsAppNeaFinal2\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.pdb
+C:\Users\Weaver Family\OneDrive - Wolverhampton Girls' High School\CS\NEA\WindowsFormsAppNeaFinalV2\WindowsFormsAppNeaPrototype1\bin\Debug\WindowsFormsAppNeaPrototype1.exe.config
+C:\Users\Weaver Family\OneDrive - Wolverhampton Girls' High School\CS\NEA\WindowsFormsAppNeaFinalV2\WindowsFormsAppNeaPrototype1\bin\Debug\WindowsFormsAppNeaPrototype1.exe
+C:\Users\Weaver Family\OneDrive - Wolverhampton Girls' High School\CS\NEA\WindowsFormsAppNeaFinalV2\WindowsFormsAppNeaPrototype1\bin\Debug\WindowsFormsAppNeaPrototype1.pdb
+C:\Users\Weaver Family\OneDrive - Wolverhampton Girls' High School\CS\NEA\WindowsFormsAppNeaFinalV2\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.csprojAssemblyReference.cache
+C:\Users\Weaver Family\OneDrive - Wolverhampton Girls' High School\CS\NEA\WindowsFormsAppNeaFinalV2\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormStart.resources
+C:\Users\Weaver Family\OneDrive - Wolverhampton Girls' High School\CS\NEA\WindowsFormsAppNeaFinalV2\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormAddAListedItem.resources
+C:\Users\Weaver Family\OneDrive - Wolverhampton Girls' High School\CS\NEA\WindowsFormsAppNeaFinalV2\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormAddNewItem.resources
+C:\Users\Weaver Family\OneDrive - Wolverhampton Girls' High School\CS\NEA\WindowsFormsAppNeaFinalV2\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormAddSale.resources
+C:\Users\Weaver Family\OneDrive - Wolverhampton Girls' High School\CS\NEA\WindowsFormsAppNeaFinalV2\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormAnalyseSales.resources
+C:\Users\Weaver Family\OneDrive - Wolverhampton Girls' High School\CS\NEA\WindowsFormsAppNeaFinalV2\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormDelete.resources
+C:\Users\Weaver Family\OneDrive - Wolverhampton Girls' High School\CS\NEA\WindowsFormsAppNeaFinalV2\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormEditItems.resources
+C:\Users\Weaver Family\OneDrive - Wolverhampton Girls' High School\CS\NEA\WindowsFormsAppNeaFinalV2\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormListNext.resources
+C:\Users\Weaver Family\OneDrive - Wolverhampton Girls' High School\CS\NEA\WindowsFormsAppNeaFinalV2\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormNewCustomer.resources
+C:\Users\Weaver Family\OneDrive - Wolverhampton Girls' High School\CS\NEA\WindowsFormsAppNeaFinalV2\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormViewItems.resources
+C:\Users\Weaver Family\OneDrive - Wolverhampton Girls' High School\CS\NEA\WindowsFormsAppNeaFinalV2\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormViewSales.resources
+C:\Users\Weaver Family\OneDrive - Wolverhampton Girls' High School\CS\NEA\WindowsFormsAppNeaFinalV2\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormViewSalesTDLY.resources
+C:\Users\Weaver Family\OneDrive - Wolverhampton Girls' High School\CS\NEA\WindowsFormsAppNeaFinalV2\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormViewToList.resources
+C:\Users\Weaver Family\OneDrive - Wolverhampton Girls' High School\CS\NEA\WindowsFormsAppNeaFinalV2\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.FormYearComparison.resources
+C:\Users\Weaver Family\OneDrive - Wolverhampton Girls' High School\CS\NEA\WindowsFormsAppNeaFinalV2\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.Properties.Resources.resources
+C:\Users\Weaver Family\OneDrive - Wolverhampton Girls' High School\CS\NEA\WindowsFormsAppNeaFinalV2\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.csproj.GenerateResource.cache
+C:\Users\Weaver Family\OneDrive - Wolverhampton Girls' High School\CS\NEA\WindowsFormsAppNeaFinalV2\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.csproj.CoreCompileInputs.cache
+C:\Users\Weaver Family\OneDrive - Wolverhampton Girls' High School\CS\NEA\WindowsFormsAppNeaFinalV2\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.exe
+C:\Users\Weaver Family\OneDrive - Wolverhampton Girls' High School\CS\NEA\WindowsFormsAppNeaFinalV2\WindowsFormsAppNeaPrototype1\obj\Debug\WindowsFormsAppNeaPrototype1.pdb
